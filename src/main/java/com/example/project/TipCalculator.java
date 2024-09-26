@@ -36,7 +36,6 @@ public class TipCalculator {
         result.append("\n");
         result.append("-------------------------------\n");
 
-
         return result.toString();
     }
      //TEST YOUR PROGRAM IN main
